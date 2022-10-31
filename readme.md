@@ -22,7 +22,7 @@ AutoComplete Search website displays Anime series relevant names as soon as you 
 #
 To use AutoComplete Search website or to see the project. Please click on the deployed link below.
 
-[AutoComplete Search](https://wordcountwebsite.netlify.app/)
+[AutoComplete Search](https://autocompletesearchwebsite.netlify.app/)
 <br>
 <br>
 <!-- ![STOPWATCH Website Image](./stopwatch.png) -->
