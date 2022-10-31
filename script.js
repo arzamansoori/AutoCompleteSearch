@@ -7,11 +7,6 @@ if (input.length > 0) {
         li[i].style.display = "block"
     }
 }
-else if(input.length = 0) {
-    for (let i = 0; i < li.length; i++) {
-        li[i].style.display = "none";
-    }
-}
 else{
     for (let i = 0; i < li.length; i++) {
         li[i].style.display = "none";
