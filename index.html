@@ -5,13 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
-    
-    <div id="myDropdown">
-        <input type="text" placeholder="Find your favourite anime in the list..." id="myInput" title="Type anime name" onkeyup="myFunction()">
-        
+    <p>AutoComplete Search</p>
+    <div id="myDropdown" class="dropdown">
+        <div class="firstDiv">
+        <input class="inputBox" type="text" placeholder="Find your favourite anime in the list..." id="myInput" title="Type anime name" onkeyup="myFunction()">
+    </div>
             <li>Attack on Titan</li>
             <li>Naruto</li>
             <li>Naruto: Shippuden</li>
@@ -29,11 +33,8 @@
             <li>Kamisama Kiss</li>
             <li>Ouran High School Host Club</li>
             <li>My neighbour totoro</li>
-            <li>Spirited Away</li>
-        
+            <li>Spirited Away</li>  
     </div>
-
-
     <script src="/script.js"></script>
 </body>
 </html>
