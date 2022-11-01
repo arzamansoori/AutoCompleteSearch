@@ -1,6 +1,6 @@
 ![AUTOCOMPLETESEARCH](https://img.shields.io/badge/AUTOCOMPLETE-SEARCH-%23D291BC)
 
-AutoComplete Search website is created with using HTML, CSS(styling yet to be done) and JavaScript.
+AutoComplete Search website is created with using HTML, CSS and JavaScript.
 
 ## TABLE OF CONTENTS
 #
@@ -15,7 +15,7 @@ AutoComplete Search website displays Anime series relevant names as soon as you 
 ### Technologies
 #
 * HTML
-* CSS(yet to be done)
+* CSS
 * JavaScript
 
 ### Launch
@@ -25,5 +25,5 @@ To use AutoComplete Search website or to see the project. Please click on the de
 [AutoComplete Search](https://autocompletesearchwebsite.netlify.app/)
 <br>
 <br>
-<!-- ![STOPWATCH Website Image](./stopwatch.png) -->
+![STOPWATCH Website Image](./autocomplete.png)
 
